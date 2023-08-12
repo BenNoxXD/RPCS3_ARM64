@@ -4,4 +4,4 @@ container:
   memory: 12G
 
 task:
-  script: ./build-mac-arm64.sh
+  script: ./build-mac-arm64
