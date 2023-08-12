@@ -12,4 +12,4 @@ macos_task:
       mac_script:
         - mkdir artifacts
         - chmod +x "build-mac-arm64.sh"
-        - "build-mac-arm64.sh"
+        - ./build-mac-arm64.sh
